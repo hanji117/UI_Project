@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{04803693-AB7F-9454-361F-D1054018CB73}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Luna/Edscript/PlayerLuna.cs">
+    <Files>
+      <File FileName="Assets/Edscript/edPlayer.cs" Line="26" Column="2" />
+      <File FileName="Assets/Luna/Edscript/PlayerLuna.cs" Line="107" Column="98" />
+      <File FileName="Assets/Edscript/jun102018playerScript.cs" Line="4" Column="42" />
+      <File FileName="Assets/Scripts/CameraController.cs" Line="1" Column="1" />
+      <File FileName="../../../../rpg game/Assets/scripts/player.cs" Line="1" Column="1" />
+      <File FileName="Assets/Edscript/thirdPersonScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Edscript/CameraChange.cs" Line="6" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

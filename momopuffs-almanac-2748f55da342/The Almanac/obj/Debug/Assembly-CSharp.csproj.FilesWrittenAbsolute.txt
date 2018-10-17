@@ -1,0 +1,80 @@
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEditor.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.UI.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.Networking.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/nunit.framework.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Mono.Cecil.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Unity.DataContract.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/ExCSS.Unity.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Unity.CecilTools.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Assembly-CSharp.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/obj/Debug/Assembly-CSharp.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/obj/Debug/Assembly-CSharp.dll.mdb
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/TextMeshPro-2017.2-1.0.56-Runtime.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/TextMeshPro-2017.2-1.0.56-Editor.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Unity.Cecil.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Volumes/EDGARS USB/CS 485 Game Programming Nguyen/CS485 repository/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/obj/Debug/Assembly-CSharp.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEditor.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEditor.UI.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEditor.Networking.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEditor.TestRunner.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/nunit.framework.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEditor.Timeline.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEditor.TreeEditor.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEditor.UIAutomation.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEditor.HoloLens.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEditor.SpatialTracking.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEditor.VR.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEditor.Graphs.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/TextMeshPro-2017.2-1.0.56-Editor.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/TextMeshPro-2017.2-1.0.56-Runtime.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.Advertisements.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEditor.Advertisements.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEditor.Analytics.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEditor.Purchasing.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Unity.Cecil.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Unity.DataContract.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/edgarcruz/Desktop/blenderFiles/momopuffs-almanac-2748f55da342/The Almanac/Temp/bin/Debug/Assembly-CSharp.dll
